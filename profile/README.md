@@ -55,6 +55,7 @@
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/54715532/190904142-f848924a-bd11-4fdc-bca9-675253bdcbd8.png" height="600px" width="800px"></p>
+
 * 개발 언어: HTML5, CSS3, JavaScript, Java  
 * 데이터베이스: MySQL  
 * 적용 기술: React, Spring boot, Spring Data JPA, Axios, Spring Security  
