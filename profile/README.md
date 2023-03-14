@@ -6,6 +6,26 @@
 >가시화하여 목표한 버킷리스트의 달성에 대한 성취감을 높여줍니다.    
 <br>
 
+# 기술 스택  
+
+* 개발 언어: HTML5, CSS3, JavaScript, Java  
+* 데이터베이스: MySQL
+* 주요 기술: React, Spring Boot, Spring Data JPA, Spring Security+Jwt  
+* 클라우드: AWS EC2, AWS RDS, AWS S3
+
+<br>
+
+# 시스템 구조
+
+
+
+![tellmewish 구조도 drawio (2)](https://user-images.githubusercontent.com/71643491/224869973-7da8a789-73b8-4320-854a-a9db7a2a426c.png)
+
+
+<br>
+
+
+# 실행 화면  
 
 <img src="https://user-images.githubusercontent.com/54715532/189677632-1c730afe-858a-4b70-94e4-2230c9e313b0.png" width="1000" height="500">
 <img src="https://user-images.githubusercontent.com/54715532/189677777-740db4e1-7458-4711-b113-1046484f9615.png" width="1000" height="500">
@@ -13,8 +33,46 @@
 <img src="https://user-images.githubusercontent.com/54715532/189677885-28ad2dc2-0684-455c-846a-86123100b637.png" width="1000" height="500">
 
 																	      
-																	
+															
+<br>
 
+# 주요 기능  
+- 버킷리스트 목록
+
+  - 작성자가 공개 설정한 글들 페이징해 조회
+  - 카테고리, 키워드별 글 검색
+    ​
+
+- 버킷리스트 등록
+
+  - 공개 여부, 모집 여부, 카테고리, 제목, 내용, 사진, 위치 정보 입력
+
+  ​
+
+- 버킷리스트 글 상세보기
+
+  - 카테고리, 진행 상황, 모집 여부 포함 글 내용 상세보기
+  - 좋아요, 공유하기 기능
+  -  댓글, 대댓글 작성
+  - 비밀댓글 설정 시 글 작성자와 댓글 작성자만 확인 가능
+
+  ​
+
+- 지도 검색
+
+  - 위치 검색 시 해당 위치 주위의 버킷리스트들 표시
+  - 마커 클릭 시 버킷리스트 정보 표시, 정보 클릭 시 해당 글로 이동
+
+  ​
+
+- 마이페이지
+
+  - 버킷리스트 달성률 표시
+  - 진행 상황에 따른 게시글 조회
+  - 좋아요한 글, 내가 댓글 단 글, 공유한 글 조회
+
+  ​
+<br>
 
 
 <br>
@@ -26,40 +84,8 @@
 * 버킷리스트 달성률을 통해 목표한 버킷리스트 달성에 대한 성취감을 높여준다.
 <br>
 
-# 주요 기능  
-* 작성자가 공개 설정한 글들 조회  
-* 카테고리, 키워드별 글 검색  
-* 공개 여부, 참여 여부, 카테고리, 제목, 내용, 사진, 위치 정보 입력  
-* 카테고리, 진행 상황, 모집 여부 포함 글 내용 상세보기  
-* 좋아요, 공유하기 기능  
-* 위치 정보 공유  
-* 글 상세보기에 댓글, 대댓글 작성  
-* 비밀댓글 설정 시 글 작성자와 댓글 작성자만 확인 가능  
-* 위치 검색 시 해당 위치 주위의 버킷리스트들 표시  
-* 마커 클릭 시 버킷리스트 정보 표시, 정보 클릭 시 해당 글로 이동  
-* 진행 완료된 버킷리스트를 달성률로 표시  
-* 진행 상황에 따른 게시글 조회  
-* 좋아요한 글, 내가 댓글 단 글, 공유한 글 조회  
-<br>
-
-# 기술 스택  
-<div align="center">
-	<img src="https://img.shields.io/badge/SpringBoot-1572B6?style=flat&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringDataJpa-1572B6?style=flat&logo=SpringDataJpa&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-1572B6?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringSecurity-E34F26?style=flat&logo=SpringSecurity&logoColor=white" />
-	<img src="https://img.shields.io/badge/Axios-1572B6?style=flat&logo=Axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS EC2-1572B6?style=flat&logo=AWS EC2&logoColor=white" />
-</div>
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54715532/190904142-f848924a-bd11-4fdc-bca9-675253bdcbd8.png" height="600px" width="800px"></p>
-
-* 개발 언어: HTML5, CSS3, JavaScript, Java  
-* 데이터베이스: MySQL  
-* 적용 기술: React, Spring boot, Spring Data JPA, Axios, Spring Security  
-* 클라우드: AWS EC2  
 
 
 <br>
